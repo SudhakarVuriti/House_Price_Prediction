@@ -1,7 +1,7 @@
 # House_Price_Prediction
 # Project Name
 > House-Price-Prediction
-- Github link : https://github.com/Prashant-Tariwal/House_Price_Prediction.git
+- Github link :(https://github.com/SudhakarVuriti/House_Price_Prediction.git)
 
 ## Table of Contents
 *  Assignment part1
